@@ -5,7 +5,7 @@ You can convert all the .bag files (sorted in ascending order by file name) in t
 
 ## How to use
 ### 0. Environment
-Python 2.7 with Anaconda Envs (Windows not supported) 
+Python 2.7 with Anaconda Envs (Windows not supported)  
 `$ conda create -n rosbag2image python=2.7`
 
 ### 1. Install python libraries
